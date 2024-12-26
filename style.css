@@ -1,0 +1,40 @@
+body {
+  padding: 20px;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  margin: 0px;
+  position: relative;
+}
+
+button {
+  cursor: pointer;
+}
+
+#aqua {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: aqua;
+}
+
+#gray {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: gray;
+}
+
+#blue {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: rgb(63, 113, 136);
+}
+
+#green {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: aquamarine;
+}/*# sourceMappingURL=style.css.map */
